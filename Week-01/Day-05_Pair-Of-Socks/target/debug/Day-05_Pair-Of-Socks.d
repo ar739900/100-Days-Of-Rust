@@ -1,0 +1,1 @@
+C:\Users\ar739\OneDrive\ -\ MSFT\Documents\projects\Rust\challenge\100-Days-Of-Rust\Week-01\Day-05_Pair-Of-Socks\target\debug\Day-05_Pair-Of-Socks.exe: C:\Users\ar739\OneDrive\ -\ MSFT\Documents\projects\Rust\challenge\100-Days-Of-Rust\Week-01\Day-05_Pair-Of-Socks\src\main.rs
